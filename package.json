@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-calendar": "^4.6.0",
+    "timeago.js": "^4.0.2"
+  }
+}
